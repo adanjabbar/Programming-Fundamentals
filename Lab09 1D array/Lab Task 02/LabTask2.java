@@ -1,3 +1,9 @@
+/*Write a program which performs the following tasks:  
+• Initialize an integer array of 10 elements in main( )  
+• Pass the entire array to a function modify( )  
+• In modify( ) multiply each element of array by 3  
+• return the control to main( ) and print the new array elements in main( )*/
+
 public class LabTask2 {
     public static void main(String[] args) {
 
