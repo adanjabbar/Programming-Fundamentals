@@ -1,4 +1,7 @@
- import java.util.Scanner;
+/*10 students were asked to rate the quality of food in the student cafeteria, on a scale of 1 to 10 (1 means 
+awful and 10 means excellent). Place the forty responses in an integer array and summarize the results of the poll. */
+
+import java.util.Scanner;
 
 public class LabTask1{
     public static void main(String[] args) {
