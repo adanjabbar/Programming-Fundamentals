@@ -4,7 +4,7 @@ separate line. Determine the length of the sequence, where the sequence ends whe
 be omitted. */
 
 import java.util.Scanner;
-public class task4{
+public class l4{
 
 public static void main(String[]args){
         Scanner input=new Scanner(System.in);
@@ -20,7 +20,7 @@ while(true){            //infinite loop ends on break
 	count++;
 	}
 
-System.out.print("The length of sequence is : " + count);
+System.out.print("The length of sequence is : " + count); //display result
 input.close();
 	}
 }
